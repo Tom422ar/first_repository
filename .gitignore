@@ -1,4 +1,4 @@
 node_moduls
 *.txt
-js/app.js
+js/
 !a.txt
